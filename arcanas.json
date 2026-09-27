@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "name": "Fool",
+    "description": "The Fool Arcana (愚者, Gusha)? is an Arcana in the Persona series.",
+    "number": 0,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-04-11",
+    "imageUrl": "./assets-arcanas/fool-0.webp",
+    "alignment": "Neutral",
+    "keywords": [
+      "new beginnings",
+      "potential",
+      "freedom",
+      "journey"
+    ],
+    "representativePersona": {
+      "id": 1,
+      "name": "Arsene",
+      "description": "A being based off the main character of Maurice Leblanc's novels, Arsène Lupin. He appears everywhere and is a master of disguise. He is known to help law-abiding citizens.",
+      "level": 1,
+      "isInitialPersona": true,
+      "imageUrl": "./assets-personas/Arsene.webp"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Magician",
+    "description": "The Magician Arcana (魔術師, Majutsushi)? is a recurring Arcana in the Persona series.",
+    "number": 1,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-04-11",
+    "imageUrl": "./assets-personas/Magician.webp",
+    "alignment": "Neutral",
+    "keywords": [
+      "creativity",
+      "initiative",
+      "skill",
+      "action"
+    ],
+    "representativePersona": {
+      "id": 2,
+      "name": "Zorro",
+      "description": "A masked swordsman of justice who fought in California against corrupt officials during the era of Spanish rule. He always left his 'Z' mark with his rapier wherever he appeared.",
+      "level": 1,
+      "isInitialPersona": true,
+      "imageUrl": "./assets-personas/Zorro.webp"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Priestress",
+    "description": "The Priestess Arcana (女教皇, Jokyoukou)?, also known as the High Priestess, is a recurring Arcana in the Persona series.",
+    "number": 2,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-04-15",
+    "imageUrl": "./assets-arcanas/Priestress-0.webp",
+    "alignment": "Good",
+    "keywords": [
+      "wisdom",
+      "intuition",
+      "knowledge",
+      "mystery"
+    ],
+    "representativePersona": {
+    "id": 3,
+    "name": "Johanna",
+    "description": "The mysterious female pope of the Middle Ages. She posed as a man and eventually made it all the way up to pope due to her unrivaled intellect. Her existence shook the history of the Catholic church.",
+    "level": 21,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-06-21",
+    "imageUrl": "./assets-personas/Johanna.webp"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Empress",
+    "description": "The Empress Arcana (女帝, Jotei)? is a recurring Arcana in the Persona series.",
+    "number": 3,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-07-25",
+    "imageUrl": "./assets-arcanas/Empress-0.webp",
+    "alignment": "Good",
+    "keywords": [
+      "fertility",
+      "growth",
+      "beauty",
+      "nurturing"
+    ],
+    "representativePersona": {
+    "id": 4,
+    "name": "Milady",
+    "description": "The beautiful woman that appears in Dumas' 'Three Musketeers'. Branded with a fleur-de-lis symbol, she used many aliases to control nobility and get her vengeance.",
+    "level": 36,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-09-13",
+    "imageUrl": "./assets-personas/Milady.webp"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Emperor",
+    "description": "The Emperor Arcana (皇帝, Koutei)? is a recurring Arcana in the Persona series.",
+    "number": 4,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-05-17",
+    "imageUrl": "./assets-arcanas/Emperor-0.webp",
+    "alignment": "Neutral",
+    "keywords": [
+      "authority",
+      "leadership",
+      "control",
+      "discipline"
+    ],
+    "representativePersona": {
+    "id": 5,
+    "name": "Goemon",
+    "description": "Ishikawa Goemon was a thief who stole from the rich and gave to the poor in Japan during the Azuchi-Momoyama period. The kabuki scene of him sitting on the gate of Nanzen-ji is famous.",
+    "level": 15,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-05-18",
+    "imageUrl": "./assets-personas/Goemon.webp"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Hierophant",
+    "description": "The Hierophant Arcana (法王, Houou)? or (教皇, Kyoukou)? is a recurring Arcana within the Persona series.",
+    "number": 5,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-07-22",
+    "imageUrl": "./assets-arcanas/Hierophant-0.webp",
+    "alignment": "Neutral",
+    "keywords": [
+      "tradition",
+      "wisdom",
+      "guidance",
+      "faith"
+    ],
+    "representativePersona": {
+    "id": 6,
+    "name": "Berith",
+    "description": "One of the 72 demons of the Goetia. He rides a gigantic horse and burns those without manners. He is the duke of Hell.",
+    "level": 9,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-07-26",
+    "imageUrl": "./assets-personas/Berith.webp"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Lovers",
+    "description": "The Lovers Arcana (恋愛, Ren'ai)? or (恋人, Koibito)? is a recurring Arcana in the Persona series.",
+    "number": 6,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-04-12",
+    "imageUrl": "./assets-arcanas/Lovers-0.webp",
+    "alignment": "Good",
+    "keywords": [
+      "love",
+      "relationships",
+      "choice",
+      "harmony"
+    ],
+    "representativePersona": {
+    "id": 7,
+    "name": "Carmen",
+    "description": "A gypsy thief from the novel by Merimee, which became famous through the opera by Bizet. She is a femme fatale who is beautiful but very capricious.",
+    "level": 5,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-04-15",
+    "imageUrl": "./assets-personas/Carmen.webp"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Chariot",
+    "description": "The Chariot Arcana (戦車, Sensha)? is a recurring Arcana in the Persona series.",
+    "number": 7,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-04-11",
+    "imageUrl": "./assets-arcanas/Chariot-0.webp",
+    "alignment": "Neutral",
+    "keywords": [
+      "determination",
+      "victory",
+      "ambition",
+      "willpower"
+    ],
+    "representativePersona": {
+    "id": 8,
+    "name": "Captain Kidd",
+    "description": "A 17th century privateer who eventually became a world-renowned pirate. At his execution, he declared he had a hidden treasure, leaving behind many legends.",
+    "level": 4,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-04-12",
+    "imageUrl": "./assets-personas/Captain_Kidd.webp"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Justice",
+    "description": "The Justice Arcana (正義, Seigi)? is a recurring Arcana in the Persona series.",
+    "number": 8,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-06-09",
+    "imageUrl": "./assets-arcanas/Justice-0.webp",
+    "alignment": "Good",
+    "keywords": [
+      "justice",
+      "truth",
+     "fairness",
+      "judgment"
+    ],
+    "representativePersona": {
+    "id": 9,
+    "name": "Robin Hood",
+    "description": "A noble thief that made waves in England during the Middle Ages. He is an expert archer and leader of the Merry Men, outlaws of justice who made Sherwood Forest their home.",
+    "level": 45,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-04-12",
+    "imageUrl": "./assets-personas/Robin_Hood.webp"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Hermit",
+    "description": "The Hermit Arcana (隠者, Inja)? is a recurring Arcana in the Persona series.",
+    "number": 9,
+    "isMajorArcana": true,
+    "firstEncounterDate": "2016-07-22",
+    "imageUrl": "./assets-arcanas/Hermit-0.webp",
+    "alignment": "Neutral",
+    "keywords": [
+      "introspection",
+      "wisdom",
+      "solitude",
+      "reflection"
+    ],
+    "representativePersona": {
+    "id": 10,
+    "name": "Necronomicon",
+    "description": "The grimoire which contains vital information of the Cthulhu mythos by Lovecraft. Its original name is Al Azif. It is said the book itself is alive.",
+    "level": 31,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-07-26",
+    "imageUrl": "./assets-personas/Necronmicon.webp"
+    }
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Arsene",
+    "description": "A being based off the main character of Maurice Leblanc's novels, Arsène Lupin. He appears everywhere and is a master of disguise. He is known to help law-abiding citizens.",
+    "level": 1,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-04-11",
+    "imageUrl": "./assets-personas/Arsene.webp",
+    "element": "Curse",
+    "skills": [
+      "Eiha",
+      "Cleave",
+      "Dream Needle"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Zorro",
+    "description": "A masked swordsman of justice who fought in California against corrupt officials during the era of Spanish rule. He always left his 'Z' mark with his rapier wherever he appeared.",
+    "level": 1,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-04-11",
+    "imageUrl": "./assets-personas/Zorro.webp",
+    "element": "Wind",
+    "skills": [
+      "Garu",
+      "Dia",
+      "Patra"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Johanna",
+    "description": "The mysterious female pope of the Middle Ages. She posed as a man and eventually made it all the way up to pope due to her unrivaled intellect. Her existence shook the history of the Catholic church.",
+    "level": 21,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-06-21",
+    "imageUrl": "./assets-personas/Johanna.webp",
+    "element": "Nuke",
+    "skills": [
+      "Frei",
+      "Mafrei",
+      "Vajra Blast"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Milady",
+    "description": "The beautiful woman that appears in Dumas' 'Three Musketeers'. Branded with a fleur-de-lis symbol, she used many aliases to control nobility and get her vengeance.",
+    "level": 36,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-09-13",
+    "imageUrl": "./assets-personas/Milady.webp",
+    "elemental": "Psyche",
+    "skills": [
+      "Psio",
+      "Mapsio",
+      "Triple Down"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Goemon",
+    "description": "Ishikawa Goemon was a thief who stole from the rich and gave to the poor in Japan during the Azuchi-Momoyama period. The kabuki scene of him sitting on the gate of Nanzen-ji is famous.",
+    "level": 15,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-05-18",
+    "imageUrl": "./assets-personas/Goemon.webp",
+    "element": "Ice",
+    "skills": [
+      "Bufu",
+      "Giant Slice",
+      "Sukukaja"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Berith",
+    "description": "One of the 72 demons of the Goetia. He rides a gigantic horse and burns those without manners. He is the duke of Hell.",
+    "level": 9,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-07-26",
+    "imageUrl": "./assets-personas/Berith.webp",
+    "element": "Physical",
+    "skills": [
+      "Cleave",
+      "Rakuja",
+      "Doubla Fangs"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Carmen",
+    "description": "A gypsy thief from the novel by Merimee, which became famous through the opera by Bizet. She is a femme fatale who is beautiful but very capricious.",
+    "level": 5,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-04-15",
+    "imageUrl": "https://example.com/images/Carmen.jpg",
+    "element": "Fire",
+    "skills": [
+      "Agi",
+      "Dia",
+      "Dormina"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Captain Kidd",
+    "description": "A 17th century privateer who eventually became a world-renowned pirate. At his execution, he declared he had a hidden treasure, leaving behind many legends.",
+    "level": 4,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-04-12",
+    "imageUrl": "./assets-personas/Captain_Kidd.webp",
+    "element": "electric",
+    "skills": [
+      "Zio",
+      "Lunge",
+      "Tarukaja"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Robin Hood",
+    "description": "A noble thief that made waves in England during the Middle Ages. He is an expert archer and leader of the Merry Men, outlaws of justice who made Sherwood Forest their home.",
+    "level": 45,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-04-12",
+    "imageUrl": "./assets-personas/Robin_Hood.webp",
+    "element": "Blessing",
+    "skills": [
+      "Megidola",
+      "Megaton Raid",
+      "Kouga"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Necronomicon",
+    "description": "The grimoire which contains vital information of the Cthulhu mythos by Lovecraft. Its original name is Al Azif. It is said the book itself is alive.",
+    "level": 31,
+    "isInitialPersona": true,
+    "firstEncounterDate": "2016-07-26",
+    "imageUrl": "./assets-personas/Necronomicon.webp",
+    "element": "healing",
+    "skills": [
+      "Analysis",
+      "Subrecover HP",
+      "Subrecover SP"
+    ]
+  }
+]
