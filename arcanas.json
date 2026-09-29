@@ -54,7 +54,7 @@
     "number": 2,
     "isMajorArcana": true,
     "firstEncounterDate": "2016-04-15",
-    "imageUrl": "./assets-arcanas/Priestress-0.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Priestress-0.webp",
     "alignment": "Good",
     "keywords": [
       "wisdom",
@@ -79,7 +79,7 @@
     "number": 3,
     "isMajorArcana": true,
     "firstEncounterDate": "2016-07-25",
-    "imageUrl": "./assets-arcanas/Empress-0.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Empress-0.webp",
     "alignment": "Good",
     "keywords": [
       "fertility",
@@ -104,7 +104,7 @@
     "number": 4,
     "isMajorArcana": true,
     "firstEncounterDate": "2016-05-17",
-    "imageUrl": "./assets-arcanas/Emperor-0.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Emperor-0.webp",
     "alignment": "Neutral",
     "keywords": [
       "authority",
@@ -129,7 +129,7 @@
     "number": 5,
     "isMajorArcana": true,
     "firstEncounterDate": "2016-07-22",
-    "imageUrl": "./assets-arcanas/Hierophant-0.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Hierophant-0.webp",
     "alignment": "Neutral",
     "keywords": [
       "tradition",
@@ -154,7 +154,7 @@
     "number": 6,
     "isMajorArcana": true,
     "firstEncounterDate": "2016-04-12",
-    "imageUrl": "./assets-arcanas/Lovers-0.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Lovers-0.webp",
     "alignment": "Good",
     "keywords": [
       "love",
@@ -179,7 +179,7 @@
     "number": 7,
     "isMajorArcana": true,
     "firstEncounterDate": "2016-04-11",
-    "imageUrl": "./assets-arcanas/Chariot-0.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Chariot-0.webp",
     "alignment": "Neutral",
     "keywords": [
       "determination",
@@ -204,7 +204,7 @@
     "number": 8,
     "isMajorArcana": true,
     "firstEncounterDate": "2016-06-09",
-    "imageUrl": "./assets-arcanas/Justice-0.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Justice-0.webp",
     "alignment": "Good",
     "keywords": [
       "justice",
@@ -219,7 +219,7 @@
     "level": 45,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-04-12",
-    "imageUrl": "./assets-personas/Robin_Hood.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Robin_Hood.webp"
     }
   },
   {
@@ -229,7 +229,7 @@
     "number": 9,
     "isMajorArcana": true,
     "firstEncounterDate": "2016-07-22",
-    "imageUrl": "./assets-arcanas/Hermit-0.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Hermit-0.webp",
     "alignment": "Neutral",
     "keywords": [
       "introspection",
