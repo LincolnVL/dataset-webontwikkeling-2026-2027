@@ -20,7 +20,7 @@
       "description": "A being based off the main character of Maurice Leblanc's novels, Arsène Lupin. He appears everywhere and is a master of disguise. He is known to help law-abiding citizens.",
       "level": 1,
       "isInitialPersona": true,
-      "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Arsene.webp"
+      "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Arsene.webp"
     }
   },
   {
@@ -44,7 +44,7 @@
       "description": "A masked swordsman of justice who fought in California against corrupt officials during the era of Spanish rule. He always left his 'Z' mark with his rapier wherever he appeared.",
       "level": 1,
       "isInitialPersona": true,
-      "imageUrl": "./assets-personas/Zorro.webp"
+      "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Zorro.webp"
     }
   },
   {
@@ -69,7 +69,7 @@
     "level": 21,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-06-21",
-    "imageUrl": "./assets-personas/Johanna.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Johanna.webp"
     }
   },
   {
@@ -94,7 +94,7 @@
     "level": 36,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-09-13",
-    "imageUrl": "./assets-personas/Milady.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Milady.webp"
     }
   },
   {
@@ -119,7 +119,7 @@
     "level": 15,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-05-18",
-    "imageUrl": "./assets-personas/Goemon.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Goemon.webp"
     }
   },
   {
@@ -144,7 +144,7 @@
     "level": 9,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-07-26",
-    "imageUrl": "./assets-personas/Berith.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Berith.webp"
     }
   },
   {
@@ -169,7 +169,7 @@
     "level": 5,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-04-15",
-    "imageUrl": "./assets-personas/Carmen.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Carmen.webp"
     }
   },
   {
@@ -194,7 +194,7 @@
     "level": 4,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-04-12",
-    "imageUrl": "./assets-personas/Captain_Kidd.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Captain_Kidd.webp"
     }
   },
   {
@@ -219,7 +219,7 @@
     "level": 45,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-04-12",
-    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-arcanas/Robin_Hood.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Robin_Hood.webp"
     }
   },
   {
@@ -244,7 +244,7 @@
     "level": 31,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-07-26",
-    "imageUrl": "./assets-personas/Necronmicon.webp"
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Necronmicon.webp"
     }
   }
 ]
