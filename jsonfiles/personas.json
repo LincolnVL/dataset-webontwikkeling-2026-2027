@@ -21,7 +21,7 @@
     "level": 1,
     "isInitialPersona": true,
     "firstEncounterDate": "2016-04-11",
-    "imageUrl": "./assets-personas/Zorro.webp",
+    "imageUrl": "https://raw.githubusercontent.com/LincolnVL/dataset-webontwikkeling-2026-2027/refs/heads/main/assets-personas/Zorro.webp",
     "element": "Wind",
     "skills": [
       "Garu",
